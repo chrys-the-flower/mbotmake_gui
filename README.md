@@ -1,14 +1,18 @@
-# NOTE
+Main conversion code forked from [powpingdone/mbotmake] https://github.com/powpingdone/mbotmake.
+
+This project adds a GUI for the mbotmake program to hopefuly make it more accessable to a wider audience. Most origional warnings still apply. I have personally tested this tool on a Makerbot Replicator+ with a Smart Extruder+ and had good results, but do not have access to any other physical machines for testing.
+
+# Original Author's Note
 This repository is unstable. Until I add basic stable support (full support for G0/1, G92, G90/91, bed, chamber, and nozzle heating) for all Makerbot Gen5 Printers, please use with caution. I am not responsible for any broken printers, but do feel free to [make an issue](https://github.com/sckunkle/mbotmake/issues) with what happened.
 
 # mbotmake
 A gcode to .makerbot (Gen 5+) conversion tool, compatable with marlin gcode.
 
 # HOW TO USE 
-## Mac/Linux
-Install Python 3.8 by your preferred means, then run the mbotmake file in the root of this repository with the files you want to process.
-## Windows
-Download the exe from [here](https://github.com/sckunkle/mbotmake/releases) and drag and drop your gcode onto the executable.
+## Windows/Mac
+Download appropriate file from the [releases](https://github.com/chrys-the-flower/mbotmake_gui/releases/tag/release) page. Unzip and execute.
+## Linux
+Install Python 3.8 by your preferred means, then run the mbotmake_main.py file in the root of this repository.
 
 ## PrusaSlicer
 Change these two settings in PrusaSlicer:
