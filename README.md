@@ -1,6 +1,6 @@
 Main conversion code forked from [powpingdone/mbotmake] https://github.com/powpingdone/mbotmake.
 
-This project adds a GUI for the mbotmake program to hopefuly make it more accessable to a wider audience. Most origional warnings still apply. I have personally tested this tool on a Makerbot Replicator+ with a Smart Extruder+ and had good results, but do not have access to any other physical machines for testing.
+This project adds a GUI for the mbotmake program to hopefuly make it more accessable to a wider audience. Most original warnings still apply. I have personally tested this tool on a Makerbot Replicator+ with a Smart Extruder+ and had good results, but do not have access to any other physical machines for testing.
 
 # Original Author's Note
 This repository is unstable. Until I add basic stable support (full support for G0/1, G92, G90/91, bed, chamber, and nozzle heating) for all Makerbot Gen5 Printers, please use with caution. I am not responsible for any broken printers, but do feel free to [make an issue](https://github.com/sckunkle/mbotmake/issues) with what happened.
