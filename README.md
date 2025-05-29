@@ -10,7 +10,7 @@ A gcode to .makerbot (Gen 5+) conversion tool, compatable with marlin gcode.
 
 # HOW TO USE 
 ## Windows/Mac
-Download appropriate file from the [releases](https://github.com/chrys-the-flower/mbotmake_gui/releases/tag/release) page. Unzip and execute.
+Download appropriate file from the [releases](https://github.com/chrys-the-flower/mbotmake_gui/releases/) page. Unzip and execute.
 ## Linux
 Install Python 3.8 by your preferred means, then run the mbotmake_main.py file in the root of this repository.
 
